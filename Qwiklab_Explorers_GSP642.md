@@ -21,7 +21,7 @@ curl https://raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/ma
 
 npm install faker@5.5.3
 
-curl https://raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Importing%20Data%20to%20a%20Firestore%20Database/createTestData.js > createTestData.js
+curl https://raw.githubusercontent.com/Titash-shil/Importing-Data-to-a-Firestore-Database-GSP641/main/Qwiklab_Explorers_TS_createTestData.js > createTestData.js
 
 node createTestData 1000
 
